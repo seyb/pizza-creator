@@ -1,10 +1,9 @@
 import React from 'react';
-import './App.scss';
 
 function App() {
   return (
     <div className="App">
-      hello pizza
+      <h1>Pizza creator</h1>
     </div>
   );
 }
