@@ -1,9 +1,10 @@
 import React from 'react';
+import PizzaComposerPage from './pages/PizzaComposerPage';
 
 function App() {
   return (
     <div className="App">
-      <h1>Pizza creator</h1>
+      <PizzaComposerPage />
     </div>
   );
 }
